@@ -24,4 +24,4 @@ images:
 
 `sizes:` will dictate the width of images generated. You can have as many or as few as you like.
 
-You'll also need a `_data/imgaes.yml` file. Images are found and resized to `assets/images/`
+You'll also need a `_data/images.yml` file. Images are found and resized to `assets/images/`
