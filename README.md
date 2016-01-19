@@ -5,7 +5,7 @@ NOTE: This is very much a work in progress. A lot of the options are unique to m
 
 To use, include `image-plugin.rb` in your `_plugins` directory.
 
-Then, in `config.yml` you will need to add:
+Then, in `_config.yml` you will need to add:
 
 ```yaml
 images:
